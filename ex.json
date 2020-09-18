@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "001",
+    "name": "Intelligent Devices",
+    "grade":"A"
+  },
+  {
+    "_id": "002",
+    "name": "Cyber Physicals",
+    "grade":"C+"
+    
+  },
+  {
+    "_id": "003",
+    "name": "Internet of Things",
+    "grade":"B"
+  },
+  {
+    "_id": "004",
+    "name": "Data Science",
+    "grade":"B+"
+  }
+]
